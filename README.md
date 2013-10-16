@@ -1,0 +1,4 @@
+HunspellDictionaries
+====================
+
+Hunspell Dictionaries
