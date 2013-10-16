@@ -7,6 +7,11 @@ Hunspell Dictionaries
 Hunspell is a spell checker and morphological analyzer designed for languages with rich morphology and complex word compounding and character encoding, originally designed for the Hungarian language.
 Hunspell is based on MySpell and is backward-compatible with MySpell dictionaries. While MySpell uses a single-byte character encoding, Hunspell can use Unicode UTF-8-encoded dictionaries.
 
+## Links
+
+* [Project Page](http://hunspell.sourceforge.net/)
+* [Hunspell Wiki Page](http://en.wikipedia.org/wiki/Hunspell)
+
 ## License
 
 Copyright (c) 2013 Moravia IT, a.s. (http://www.moravia.com)
